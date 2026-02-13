@@ -37,3 +37,15 @@ Nov 2022 | **Best Paper Award** IEEE 17th International Conference on Control, A
 Sep 2015 – Aug 2017 | **Erasmus Mundus Scholarship** Full  scholarship for EMARO+ Master studies.
 
 Aug 2011 | **Gold Medal** Received for acquiring the highest CGPA.
+
+<style>
+  .post-content li, 
+  .post-content p, 
+  .archive__item {
+    border: none !important;
+    box-shadow: none !important;
+    background-color: transparent !important;
+    padding: 0 !important;
+    margin-bottom: 10px !important;
+  }
+</style>
