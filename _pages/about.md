@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<a name="about"></a>
 I am a researcher in Robotics and Artificial Intelligence specializing in perception and motion prediction for autonomous systems. My expertise lies at the intersection of multi-sensor fusion, probabilistic modeling, and deep learning, with a specific focus on robots operating in complex, shared human environments.  \
 During my Ph.D. at Inria, I developed uncertainty-aware motion forecasting methods by integrating probabilistic Dynamic Occupancy Grid Maps with deep learning, providing a robust representation of scene evolution. \
 Prior to this, I served as a Research Engineer at Inria, where I worked on full-stack autonomous vehicle developement, focusing on perception, map-relative localization, and V2X communication on real vehicle platform.
