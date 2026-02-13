@@ -24,19 +24,19 @@ Prior to this, I served as a Research Engineer at Inria, where I worked on full-
 
 <a name="education"></a>
 ## Education
-2022 – 2025 - **Ph.D. in Informatics** *Université Grenoble Alpes (UGA), France* Thesis: *Uncertainty-Aware Motion Prediction with Dynamic Occupancy Grid Maps* 
+2022 – 2025: **Ph.D. in Informatics** *Université Grenoble Alpes (UGA), France* Thesis: *Uncertainty-Aware Motion Prediction with Dynamic Occupancy Grid Maps* 
 
-2015 – 2017 - **European Masters in Advanced Robotics (EMARO+)** *Erasmus Mundus Programme* - Year 1: Universitá degli study di Genova, Italy - Year 2: École Centrale de Nantes, France  
+2015 – 2017: **European Masters in Advanced Robotics (EMARO+)** *Erasmus Mundus Programme* - Year 1: Universitá degli study di Genova, Italy - Year 2: École Centrale de Nantes, France  
 Thesis: *Modeling and Control of Aerial Towed Cable Systems*
 
-2007 – 2011 - **Bachelors in Mechatronics Engineering** *National University of Science and Technology (NUST), Pakistan*
+2007 – 2011: **Bachelors in Mechatronics Engineering** *National University of Science and Technology (NUST), Pakistan*
 
 <a name="awards"></a>
 ## Honours and Awards
-Nov 2023 - **Best Poster Presentation Award** 3rd International Workshop on AI for Robotics at NAVER LABS Europe.
+Nov 2023: **Best Poster Presentation Award** 3rd International Workshop on AI for Robotics at NAVER LABS Europe.
 
-Nov 2022 - **Best Paper Award** IEEE 17th International Conference on Control, Automation, Robotics and Vision (ICARCV).
+Nov 2022: **Best Paper Award** IEEE 17th International Conference on Control, Automation, Robotics and Vision (ICARCV).
 
-Sep 2015 – Aug 2017 - **Erasmus Mundus Scholarship** Full  scholarship for EMARO+ Master studies.
+Sep 2015: Aug 2017 - **Erasmus Mundus Scholarship** Full  scholarship for EMARO+ Master studies.
 
-Aug 2011 - **Gold Medal** Received for acquiring the highest CGPA.
+Aug 2011: **Gold Medal** Received for acquiring the highest CGPA.
