@@ -28,6 +28,13 @@ Thesis: *Modeling and Control of Aerial Towed Cable Systems*
 
 2007 – 2011 | **Bachelors in Mechatronics Engineering** *National University of Science and Technology (NUST), Pakistan*
 
+| | |
+|:---|:---|
+| 2022 – 2025 | **Ph.D. in Informatics** <br> *Université Grenoble Alpes (UGA), France* <br> Thesis: Uncertainty-Aware Motion Prediction with Dynamic Occupancy Grid Maps |
+| 2015 – 2017 | **European Masters in Advanced Robotics (EMARO+)** <br> *Erasmus Mundus Programme* <br> Year 1: Universitá degli study di Genova, Italy \| Year 2: École Centrale de Nantes, France |
+| 2007 – 2011 | **Bachelors in Mechatronics Engineering** <br> *National University of Science and Technology (NUST), Pakistan* <br> Awarded Gold Medal for highest academic standing. |
+
+
 <a name="awards"></a>
 ## Honours and Awards
 Nov 2023 | **Best Poster Presentation Award** 3rd International Workshop on AI for Robotics at NAVER LABS Europe.
@@ -38,14 +45,3 @@ Sep 2015 – Aug 2017 | **Erasmus Mundus Scholarship** Full  scholarship for EMA
 
 Aug 2011 | **Gold Medal** Received for acquiring the highest CGPA.
 
-<style>
-  .post-content li, 
-  .post-content p, 
-  .archive__item {
-    border: none !important;
-    box-shadow: none !important;
-    background-color: transparent !important;
-    padding: 0 !important;
-    margin-bottom: 10px !important;
-  }
-</style>
