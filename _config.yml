@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD in Robotics & AI | Motion Prediction & Autonomous Systems"
   location         : "Grenoble, France"
-  employer         : "Centre Inria de l'Université Grenoble Alpes"
+  employer         : "Centre Inria de l'UGA"
   uri              : # URL
   email            : "rabbia.mansoor.asghar@gmail.com" 
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "rabbiaasghar5016"# Username
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
