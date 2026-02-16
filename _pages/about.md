@@ -10,14 +10,14 @@ redirect_from:
 
 <a name="about"></a>
 I am a researcher in Robotics and Artificial Intelligence specializing in perception and motion prediction for autonomous systems. My expertise lies at the intersection of multi-sensor fusion, probabilistic modeling, and deep learning, with a specific focus on robots operating in complex, shared human environments.  \
-During my Ph.D. at Inria, I developed uncertainty-aware motion forecasting methods by integrating probabilistic Dynamic Occupancy Grid Maps with deep learning, providing a robust representation of scene evolution. \
+During my Ph.D. at Inria, I developed uncertainty-aware motion forecasting methods by integrating probabilistic Dynamic Occupancy Grid Maps with deep learning, providing a robust representation of scene evolution.
 Prior to this, I served as a Research Engineer at Inria, where I worked on full-stack autonomous vehicle developement, focusing on perception, map-relative localization, and V2X communication on real vehicle platform.
 
 
 <a name="publications"></a>
 ## Publications
 
-* **[Under Review]** **Asghar, R.**, Rummelhard, L., Liu, W., Spalanzani, A., & Laugier, C. "Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps", *IEEE Transactions on Intelligent Vehicles*, 2026. [[arXiv]](https://arxiv.org/abs/2602.07938) [[code]](https://gitlab.inria.fr/rasghar/dogm-veh-flow)
+* **[Under Review]** **Asghar, R.**, Rummelhard, L., Liu, W., Spalanzani, A., & Laugier, C. "Integrating Specialized and Generic Agent Motion Prediction with Dynamic Occupancy Grid Maps", *IEEE Transactions on Intelligent Vehicles*, 2026. [[arXiv]](https://arxiv.org/abs/2602.07938) [[code]](https://github.com/rabbia-asghar/dogm-veh-flow)
   
 * **Asghar, R.**, Liu, W., Rummelhard, L., Spalanzani, A., & Laugier, C. "Flow-guided motion prediction with semantics and dynamic occupancy grid maps". *2024 IEEE 27th International Conference on Intelligent Transportation Systems (ITSC)*. [[arXiv]](https://arxiv.org/abs/2407.15675) [[video]](https://www.youtube.com/watch?v=ea1fHDqfFPY&pp=0gcJCYcKAYcqIYzv)
 
